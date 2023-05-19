@@ -1,5 +1,5 @@
 .cabecalho{
- background-color:  #456aad;
+ background-color:  #001f5c;
 color: white;
 display: flex;
 justify-content: space-around;
@@ -20,7 +20,7 @@ padding: 24px 0;
 width: 25%;
 }
 .escola {
-    background-image: linear-gradient(#383b58,#00c0eb);
+    background-image: linear-gradient(#461b57,#6866d6);
     color: white;
     display: flex;
     justify-content: center;
@@ -29,4 +29,7 @@ width: 25%;
     }
     .escola-conteudo{
     width: 35%;
+    }
+    body{
+      font-family: 'Poppins', sans-serif;
     }
