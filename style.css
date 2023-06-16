@@ -27,19 +27,18 @@ width: 25%;
     align-items: center;
     padding: 24px 0;
     }
-    .escola-conteudo{
-    width: 35%;
+    .escola-conteudo {
+      width: 50%;
     }
-    body{
-      font-family: 'Poppins', sans-serif;
+    .escola-titulo {
+      padding: 20px 0;
     }
-    .estudante-imagem{
+    .estudante-imagem {
       width: 120px;
+    }
+    .estudante-icone {
+      width: 24px;
     }
     .estudante-div {
       text-align: center;
-    }
-    .estudante-titulo {
-      text-align: center;
-      padding: 50px 0;
     }
